@@ -4,7 +4,7 @@ Core Result: 1M variables, 4.2M clauses, 95.36% satisfaction (4,005,054/4,200,00
 ## Key Validation
 - Method: Lagrangian dual equilibration (Equi-Efficiency Principle, EEP)
 - Convergence: 159,819 primal flips, max dual deviation < 1e-3
-- Commit Timestamp: [当前commit hash，上传后自动生成]
+- Commit Timestamp: bb953e1eb0d32c2b6cf38121f28209860e50465c
 
 ## Comparison with State-of-the-Art
 - MaxHS/Kissat: Out of Memory (OOM) at 10^5 variables
